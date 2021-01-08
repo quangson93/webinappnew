@@ -1,0 +1,7 @@
+{
+  "name": "webInAppNew",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
